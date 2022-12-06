@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927237257648",
+    "project_id": "farmmanagment-bb736",
+    "storage_bucket": "farmmanagment-bb736.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927237257648:android:c19aaeeb582a9d42ffbe75",
+        "android_client_info": {
+          "package_name": "com.example.farmmanagment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927237257648-fk1bhnjgrjt8pvqk4i0lne694lmd5563.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwnpdr6gsBGgDsdKQ_9EuIioECoQqhhmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927237257648-fk1bhnjgrjt8pvqk4i0lne694lmd5563.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
